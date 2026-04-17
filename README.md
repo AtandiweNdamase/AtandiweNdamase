@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atandiwe Ndamase</h1>
-<h3 align="center">I am a driven young woman in teach who is passionate about Data Analysis and AI.</h3>
+<h3 align="center">I am a driven young woman in tech who is passionate about Automation and  AI.</h3>
 
-- 🔭 I’m currently working on **Power BI Dashboard**
+- 🔭 I’m currently working on **AI solutions **
 
-- 🌱 I’m currently learning **DAX**
+- 🌱 I’m currently learning **Agent AI coarses**
 
-- 👯 I’m looking to collaborate on **AI and Data projects**
+- 👯 I’m looking to collaborate on **AI and Automation**
 
 - 👨‍💻 All of my projects are available at [https://atandiwendamase.github.io/Portfolio/](https://atandiwendamase.github.io/Portfolio/)
 
