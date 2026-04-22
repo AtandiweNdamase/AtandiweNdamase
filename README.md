@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI solutions **
 
-- 🌱 I’m currently learning **Agent AI coarses**
+- 🌱 I’m currently learning **Agent AI workflows and Agent collaboration**
 
 - 👯 I’m looking to collaborate on **AI and Automation**
 
